@@ -1,5 +1,11 @@
 ---
-title: What is Ethereum? - EthHub
+title: What is Ethereum? - EthHub$ npm login --registry=https://npm.pkg.github.com
+
+> Username: USERNAME
+
+> Password: TOKEN
+
+> Email: PUBLIC-EMAIL-ADDRESS
 
 description: Ethereum is an open-source, permissionless blockchain-based distributed ledger providing infrastructure for distributed computing and economic activities.
 ---
