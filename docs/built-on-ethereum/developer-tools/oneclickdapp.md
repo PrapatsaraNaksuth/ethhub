@@ -1,7 +1,3 @@
-title: OneClickDapp - Ethhub
-
-description: With OneClickDapp, anyone with the dApp URL can interact with your shiny new smart contract, and access all functions at the correct address/network.
-
 # OneClickdApp
 
 ## About

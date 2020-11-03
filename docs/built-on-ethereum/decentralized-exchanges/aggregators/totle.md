@@ -1,7 +1,3 @@
-title: Totle - Ethhub
-
-description: Totle is creating an intuitive non-custodial platform for managing digital assets. Trade across many decentralized orderbooks to bundle liquidity.
-
 # Totle
 
 ## Description

@@ -1,7 +1,3 @@
-title: Streamr - EthHub
-
-description: Streamr is creating an open source platform for the free and fair exchange of the world’s realtime data.
-
 # Streamr
 
 Streamr is creating an open source platform for the free and fair exchange of the world’s realtime data.

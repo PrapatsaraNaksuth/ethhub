@@ -1,7 +1,3 @@
-title: Colony - EthHub
-
-description: Colony is infrastructure for the future of work: self-organizing companies that run via software, not paperwork.
-
 # Colony
 
 ## What is Colony?

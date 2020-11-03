@@ -1,7 +1,3 @@
-title: Bancor
-
-description: Bancor is a protocol on Ethereum for non-custodial token exchange using pooled liquidity
-
 # Bancor
 
 ## Description
@@ -14,5 +10,5 @@ Liquidity for the tokens is stored in smart contracts. At any time, providers ca
 
 ## Resources
 
-* [DeFi Pulse](https://defipulse.com/bancor)
 * [Website](https://www.bancor.network)
+

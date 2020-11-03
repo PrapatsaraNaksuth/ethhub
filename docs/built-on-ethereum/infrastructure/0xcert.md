@@ -1,7 +1,3 @@
-title: 0xcert - EthHub
-
-description: 0xcert is a protocol for attesting and validating issuers of non-fungible tokens.
-
 # 0xcert
 
 ## Description

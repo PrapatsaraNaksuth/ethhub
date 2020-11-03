@@ -1,5 +1,4 @@
 title: What are Tokenized Securities on Ethereum? - EthHub
-
 description: Security Tokens are digital assets subject to federal security regulations.
 
 # Tokenized Securities

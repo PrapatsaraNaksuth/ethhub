@@ -1,7 +1,3 @@
-title: Paxos - EthHub
-
-description: Paxos Standard is the first digital asset issued by a financial institution, and is fully collateralized by USD.
-
 # Paxos Standard
 
 ## Summary
@@ -12,5 +8,5 @@ PAX will always be redeemable one-to-one with USD \(1 PAX = $1 USD\), providing 
 
 ## Resources
 
-* [Website](https://www.paxos.com/pax/)
+* [Website](https://www.paxos.com/standard/)
 

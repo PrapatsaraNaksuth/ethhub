@@ -1,7 +1,3 @@
-title: KyberSwap
-
-description: KyberSwap is a simple way to exchange over 70 tokens on Ethereum
-
 # KyberSwap
 
 ## Description
@@ -18,12 +14,11 @@ Each reserve is a smart contract that is controlled by reserve admin who deploye
 
 ## Interface
 
-![](/docs/assets/images/kyber.png)
+![](/assets/images/kyber.png)
 
 ## Resources
 
-* [DeFi Pulse](https://defipulse.com/kyber)
-* [Website](https://kyberswap.com)  
+* [Website](https://kyber.network/swap)  
 * [Twitter](https://twitter.com/kybernetwork)  
 * [Github](https://github.com/kybernetwork)
-* [Kyber Tracker](https://tracker.kyber.network/#/)
+

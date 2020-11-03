@@ -1,7 +1,3 @@
-title: Compound - EthHub
-
-description: Compound Finance is an open-source money market protocol on Ethereum
-
 # Compound
 
 ## Summary
@@ -19,7 +15,6 @@ An interest rate of each lending and borrowing is defined by the size of the liq
 * Augur
 * WETH
 * 0x
-* USD Coin
 
 ## History
 
@@ -29,6 +24,5 @@ On May. 16, 2018 , Compound announced that it had raised $8.2 million in seed fu
 
 ## Resources
 
-* [DeFi Pulse](https://defipulse.com/compound)
 * [Website](https://compound.finance)
-* [Curious Giraffe Analytics](https://www.curiousgiraffe.io/compound/)
+

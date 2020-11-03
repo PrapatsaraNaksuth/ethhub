@@ -1,7 +1,3 @@
-title: Harmony - EthHub
-
-description: Harmony is ethereum’s original Java client formerly maintained by a group of independent developers.
-
 # Harmony
 
 ## Background

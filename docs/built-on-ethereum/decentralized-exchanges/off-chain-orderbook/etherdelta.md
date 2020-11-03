@@ -1,7 +1,3 @@
-title: EtherDelta - Ethhub
-
-description: EtherDelta is a decentralized exchange. It processes both orders and trade settlements on chain.
-
 # EtherDelta
 
 ## Description

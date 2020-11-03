@@ -1,20 +1,16 @@
-title: Parity: Substrate Shasper - EthHub
-
-description: Parity is developing the Serenity client called Substrate Shasper.
-
-# Substrate Shasper
+# Parity
 
 ## Background
 
-Parity Technologies is a blockchain infrastructure company responsible for maintaining the popular Ethereum client, _Parity Ethereum_.
+Parity Technologies is a blockchain infrastructure company responsible for maintaining the second most popular Ethereum client, 'Parity Ethereum'.
 
 ## Implementation Details
 
-Parity is developing _Parity Ethereum_ - a legacy Ethereum 1.0 client written in the Rust programming language and built for mission-critical use. In addition, Parity is developing the Serenity client called _Substrate Shasper_.
+Parity Technologies are developing 'Parity Ethereum' - an Ethereum 1.0 and 2.0 client written in the Rust programming language and built for mission-critical use. The name for the Eth 2.0 client is Shasper.
 
 ## Resources:
 
 * [Website](https://www.parity.io/)
-* [Github](https://github.com/paritytech/shasper)
+* [Github](https://github.com/paritytech/parity-ethereum)
 * [Twitter](https://twitter.com/ParityTech)
 

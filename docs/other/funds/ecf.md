@@ -1,10 +1,6 @@
-title: Ethereum Community Fund - EthHub
+# ECF
 
-description: The Ethereum Community Fund (ECF) is a nonprofit initiative providing financial support and guidance to various blockchain projects.
-
-# Ethereum Community Fund
-
-The Ethereum Community Fund \(ECF\) is a nonprofit initiative commited to providing financial support and strategic guidance to projects working on various aspects in blockchain: critical infrastructure and research, developer experience and tooling, open source development advocacy, educational initiatives, and responsible community growth.
+The Ethereum Community Fund \(ECF\) aims to provide both funding and support to builders of decentralized technologies.
 
 ## Founding Members
 

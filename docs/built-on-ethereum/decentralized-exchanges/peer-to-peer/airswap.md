@@ -1,7 +1,3 @@
-title: AirSwap - Ethhub
-
-description: AirSwap is a decentralized exchange that uses an off chain matching system called the Swap Protocol which allows users to easily swap tokens.
-
 # AirSwap
 
 ## Description

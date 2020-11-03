@@ -1,7 +1,3 @@
-title: 0x Instant - Ethhub
-
-description: 0x Instant is a convenient way for people to get access to a wide variety of tokens and other crypto-assets in just a few taps.
-
 # 0x Instant
 
 ## Summary

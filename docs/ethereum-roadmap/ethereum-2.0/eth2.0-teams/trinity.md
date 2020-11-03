@@ -1,7 +1,3 @@
-title: Trinity - EthHub
-
-description: The team are building Trinity - an Ethereum 1.0 and 2.0 client written in the programming language Python.
-
 # Trinity
 
 ## Background
@@ -15,5 +11,5 @@ The team are building Trinity - an Ethereum 1.0 and 2.0 client written in the pr
 ## Resources:
 
 * [Website](https://trinity.ethereum.org/)
-* [Github](https://github.com/ethereum/trinity)
+* [Github](https://github.com/ethereum/py-evm)
 

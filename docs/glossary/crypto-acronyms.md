@@ -1,5 +1,4 @@
 title: Crypto Acronyms - EthHub
-
 description: A list of commonly used acronyms for crypto and blockchain.
 
 # Crypto Acronyms
@@ -11,7 +10,6 @@ description: A list of commonly used acronyms for crypto and blockchain.
 * PoA - Proof of Authority
 * DPoS - Delegated Proof of Stake
 * LPoS - Liquid Proof of Stake
-* NPoS - Nominated Proof of Stake
 * BFT - Byzantine Fault Tolerance
 * dBFT - Delegated Byzantine Fault Tolerance
 * pBFT - Practical Byzantine Fault Tolerance
@@ -23,7 +21,6 @@ description: A list of commonly used acronyms for crypto and blockchain.
 * DAPP - Decentralized Application
 * ERC - Ethereum Request for Comments
 * EIP - Ethereum Improvement Proposal
-* EIPIP - EIP Improvement Proposal
 * DAO - Decentralized Autonomous Organization
 * EVM - Ethereum Virtual Machine
 * WASM - Web Assembly
@@ -91,7 +88,6 @@ description: A list of commonly used acronyms for crypto and blockchain.
 * DYOR - Do Your Own Research
 * FUD - Fear, Uncertainty and Doubt
 * SFYL - Sorry For Your Loss
-* BUIDL - A spelling error
 
 ## U.S Regulatory-related
 
@@ -104,7 +100,6 @@ description: A list of commonly used acronyms for crypto and blockchain.
 * FINRA - Financial Industry Regulatory Authority
 * KYC - Know Your Customer
 * AML - Anti-money Laundering
-* MT - Money Transmitter
 
 ## Misc
 
@@ -118,7 +113,6 @@ description: A list of commonly used acronyms for crypto and blockchain.
 * SF - Soft Fork
 * WP - Whitepaper
 * 2FA - Two Factor Authentication
-* DoS - Denial of Service
 * DDoS - Distributed Denial of Service
 * IPFS - Interplanetary File System
 * PKI - Public Key Infrastructure

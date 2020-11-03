@@ -1,5 +1,4 @@
 title: Ethereum Pool Based Decentralized Exchanges - EthHub
-
 description: A dive into what pool based decentralized exchanges on Ethereum are as well as the different options.
 
 # Pool Based

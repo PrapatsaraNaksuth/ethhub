@@ -1,7 +1,3 @@
-title: Gitcoin - Ethhub
-
-description: Gitcoin Bounties are an efficient way to leverage a community to contribute to open source. Great way to find talent for projects looking to recruit.
-
 # Gitcoin
 
 ## Description

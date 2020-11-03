@@ -1,7 +1,3 @@
-title: FOAM Protocol - EthHub
-
-description: FOAM is an open protocol for decentralized, geospatial data markets. It is designed to empower users to build a consensus-driven map of the world.
-
 # FOAM Protocol
 
 ## Summary

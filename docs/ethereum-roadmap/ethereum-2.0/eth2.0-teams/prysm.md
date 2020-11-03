@@ -1,7 +1,3 @@
-title: Prysmatic Labs: Prysm - EthHub
-
-description: Prysmatic Labs are developing Prysm - an Ethereum 2.0 client written in the programming language Go.
-
 # Prysmatic Labs
 
 ## Background

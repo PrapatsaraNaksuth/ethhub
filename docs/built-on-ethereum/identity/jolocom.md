@@ -1,7 +1,3 @@
-title: Jolocom - EthHub
-
-description: The Jolocom identity solution aims to be a universal, lightweight, open source protocol for decentralized digital identity and access right management. 
-
 # Jolocom
 
 ## Summary

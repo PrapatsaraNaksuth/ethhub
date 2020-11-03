@@ -1,5 +1,4 @@
 title: Ethereum Peer to Peer Decentralized Exchanges - EthHub
-
 description: A dive into what peer to peer decentralized exchanges on Ethereum are as well as the different options.
 
 # Peer to Peer

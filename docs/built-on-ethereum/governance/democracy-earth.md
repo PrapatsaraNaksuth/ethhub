@@ -1,7 +1,3 @@
-title: Democracy Earth - EthHub
-
-description: Democracy Earth is building a sovereign, open source and decentralized democratic governance protocol for any kind of organization.
-
 # Democracy Earth
 A borderless peer to peer democracy. For everyone, anywhere.
 
